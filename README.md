@@ -1,2 +1,5 @@
 # ride-music
-Details on music for rides
+
+Coming soon
+
+(I should probably like Last&period;fm, but I'll work on that)
