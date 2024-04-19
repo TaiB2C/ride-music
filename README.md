@@ -11,8 +11,7 @@ More coming soon
     * Last speaker in the [JBL](https://en.wikipedia.org/wiki/JBL) Flip line with a [3.5mm audio jack](https://en.wikipedia.org/wiki/Phone_connector_(audio))
     * Alternatively, any other [wireless speaker](https://en.wikipedia.org/wiki/Wireless_speaker) that can safely stay on a bike will work
 * [Cruiser Candy Coconut Bicycle Drink Holder](https://www.cruisercandy.com/shop/bicycle-drink-holders/new-all-natural-hand-made-coconut-bicycle-drink-holder-blank-face/)
-    * Alternatively, any bike cup holder that can safely hold the Flip 4 will work
-    * Alterantively, any bottle cage that can hold the Flip 4 securely will work
+    * Alternatively, any bike cup holder or bottle cage that can securely hold the Flip 4 will work
 * Bike stem bag to hold phone
 * Android music app: [Auxio](https://github.com/OxygenCobalt/Auxio)
 * Music collection, sourced from:
