@@ -1,6 +1,8 @@
 # Info for ride music
 Field notes on how to play music safely during bike rides
 
+I will use Markdown on GitHub, until I can figure out a better hosting situation.
+
 ## List of songs
 More coming soon
 
