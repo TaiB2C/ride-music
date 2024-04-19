@@ -1,10 +1,11 @@
 # Info for ride music
 Field notes on how to play music safely during bike rides
 
-I will use Markdown on GitHub, until I can figure out a better hosting situation.
-
-## List of songs
-More coming soon
+## Roadmap
+* I should probably use something more appropriate, like [Last&period;fm](https://en.wikipedia.org/wiki/Last.fm), but I'll work on that
+    * Alternatively, a FOSS equivalent will also work
+* Use a [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) license
+* Use Markdown on GitHub, until I can figure out a better hosting situation.
 
 ## Bill of Materials (BOM)
 This is what I use to play music on bike rides:
@@ -30,10 +31,8 @@ This is what I use to play music on bike rides:
     * I also expect Tangara to be somewhat more rugged against rain, compared to a smartphone's [USB-C](https://en.wikipedia.org/wiki/USB-C) charge port
 * 1TB [microSD](https://en.wikipedia.org/wiki/SD_card#microSD) card
 
-## Roadmap
-* I should probably use something more appropriate, like [Last&period;fm](https://en.wikipedia.org/wiki/Last.fm), but I'll work on that
-    * Alternatively, a FOSS equivalent will also work
-* Use a [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) license
+## List of songs
+Coming soon
 
 ## License
 Coming soon (likely a CC license)
