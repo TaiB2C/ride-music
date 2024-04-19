@@ -19,6 +19,7 @@ More coming soon
     * [Bandcamp](https://en.wikipedia.org/wiki/Bandcamp)
     * Lossless copies of [singles](https://en.wikipedia.org/wiki/Single_(music)) from CDs, [converted](https://unix.stackexchange.com/questions/85455/convert-wav-music-library-to-flac-on-command-line-and-achieve-best-quality) from [WAV](https://en.wikipedia.org/wiki/WAV) to [FLAC](https://en.wikipedia.org/wiki/FLAC)
     * Loss copies of singles obtained through... "economical means", as a former professor stated
+    * Copies of songs only available by downloading with [`yt-dlp`](https://en.wikipedia.org/wiki/Youtube-dl)
 
 ### Future component upgrades
 * [Tangara](https://cooltech.zone/tangara/) from [Cool Tech zone](https://cooltech.zone/)
