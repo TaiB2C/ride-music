@@ -7,6 +7,8 @@ I will use Markdown on GitHub, until I can figure out a better hosting situation
 More coming soon
 
 ## Bill of Materials (BOM)
+This is what I use to play music on bike rides:
+
 * Bluetooth speaker: JBL [Flip 4](https://www.jbl.com/refurbished-speakers/JBL+Flip+4.html)
     * Last speaker in the [JBL](https://en.wikipedia.org/wiki/JBL) Flip line with a [3.5mm audio jack](https://en.wikipedia.org/wiki/Phone_connector_(audio))
     * Alternatively, any other [wireless speaker](https://en.wikipedia.org/wiki/Wireless_speaker) that can safely stay on a bike will work
