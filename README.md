@@ -4,10 +4,10 @@ Field notes on how to play music safely during bike rides
 ## Roadmap
 * Use a [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) license
 * Use Markdown on GitHub, until I can figure out a better hosting situation.
+* TODO: YouTube playlist mirror
 
 ## Playlist
 * [Playlist](https://www.last.fm/user/TaiB2C/playlists/13228521) on [last&period;fm profile](https://www.last.fm/user/TaiB2C)
-* TODO: YouTube playlist mirror
 
 ## Bill of Materials (BOM)
 This is what I use to play music on bike rides:
