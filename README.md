@@ -26,14 +26,10 @@ This is what I use to play music on bike rides:
     * Lossless copies of [singles](https://en.wikipedia.org/wiki/Single_(music)) from CDs, [converted](https://unix.stackexchange.com/questions/85455/convert-wav-music-library-to-flac-on-command-line-and-achieve-best-quality) from [WAV](https://en.wikipedia.org/wiki/WAV) to [FLAC](https://en.wikipedia.org/wiki/FLAC)
     * Lossless copies of singles obtained through "economical means", as a former professor stated
     * Lossy copies of songs only available by downloading with [`yt-dlp`](https://en.wikipedia.org/wiki/Youtube-dl)
+* [Tangara](https://cooltech.zone/tangara/) from [Cool Tech zone](https://cooltech.zone/)
 
 ### Future item upgrades
-* [Tangara](https://cooltech.zone/tangara/) from [Cool Tech zone](https://cooltech.zone/)
-    * [Available](https://www.crowdsupply.com/cool-tech-zone/tangara) through [Crowd Supply](https://en.wikipedia.org/wiki/Crowd_Supply) during 2024
-    * When Tangara finally ships, I hope this will allow me to separate music playing from smartphone usage
-    * Auxio is great, but it's not safe to manage while riding a bike
-    * I also expect Tangara to be somewhat more rugged against rain, compared to a smartphone's [USB-C](https://en.wikipedia.org/wiki/USB-C) charge port
-* 1TB-2TB [microSD](https://en.wikipedia.org/wiki/SD_card#microSD) card
+* Waterproof case for Tangara
 
 ## List of songs
 Coming soon
