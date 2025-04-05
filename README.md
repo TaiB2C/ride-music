@@ -2,8 +2,6 @@
 Field notes on how to play music safely during bike rides
 
 ## Roadmap
-* I should probably use something more appropriate, like [Last&period;fm](https://en.wikipedia.org/wiki/Last.fm), but I'll work on that
-    * Alternatively, a FOSS equivalent will also work
 * Use a [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) license
 * Use Markdown on GitHub, until I can figure out a better hosting situation.
 
