@@ -23,7 +23,7 @@ This is what I use to play music on bike rides:
     * Lossless copies of [singles](https://en.wikipedia.org/wiki/Single_(music)) from CDs or [converted](https://unix.stackexchange.com/questions/85455/convert-wav-music-library-to-flac-on-command-line-and-achieve-best-quality) from [WAV](https://en.wikipedia.org/wiki/WAV) to [FLAC](https://en.wikipedia.org/wiki/FLAC)
     * Lossless copies of singles obtained through "economical means" (as a former professor says)
     * Lossy OPUS copies of songs only available by downloading with [`yt-dlp`](https://en.wikipedia.org/wiki/Youtube-dl)
-* [Tangara](https://cooltech.zone/tangara/) from [Cool Tech zone](https://cooltech.zone/)
+* [Tangara](https://cooltech.zone/tangara/) from [Cool Tech Zone](https://cooltech.zone/)
 
 ### Future item upgrades
 * Waterproof case for Tangara
