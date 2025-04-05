@@ -31,9 +31,6 @@ This is what I use to play music on bike rides:
 ### Future item upgrades
 * Waterproof case for Tangara
 
-## List of songs
-Coming soon
-
 ## License
 Coming soon (likely a CC license)
 
