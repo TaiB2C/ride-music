@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTENC:UTF-8
 #PLAYLIST:B2C Rides
+#EXTINF:191955,JoJo ★ JOJOLION OP ★『GO BEYOND !』- Original - JoJo's Bizarre Adventure Part 8【ジョジョの奇妙な冒険】 ジョジョリオン [g7TcFvORooU].opus
+#EXTALB:Music
+#EXTART:Unknown artist
+#EXTGEN:Unknown genre
+Music/JoJo ★ JOJOLION OP ★『GO BEYOND !』- Original - JoJo's Bizarre Adventure Part 8【ジョジョの奇妙な冒険】 ジョジョリオン [g7TcFvORooU].opus
 #EXTINF:191960,About Damn Time
 #EXTALB:About Damn Time
 #EXTART:Lizzo
@@ -21,11 +26,11 @@ Music/Pokémon Johto.opus
 #EXTART:Can't Stop Won't Stop
 #EXTGEN:Unknown genre
 Music/csws/Can't Stop Won't Stop - Fridays.flac
-#EXTINF:327101,JoJo_s Bizarre Adventure_ Golden Wind OST - Giorno_s Theme『il vento d_oro』
+#EXTINF:310321,Giorno_s Theme but it_s EPIC VERSION
 #EXTALB:Music
 #EXTART:Unknown artist
 #EXTGEN:Unknown genre
-Music/JoJo_s Bizarre Adventure_ Golden Wind OST - Giorno_s Theme『il vento d_oro』.opus
+Music/Giorno_s Theme but it_s EPIC VERSION.opus
 #EXTINF:102141,The Gooch Collector
 #EXTALB:Music
 #EXTART:Unknown artist
@@ -246,11 +251,6 @@ Music/Pokémon Theme.opus
 #EXTART:Bill Kiley
 #EXTGEN:Unknown genre
 Music/Bill Kiley- LudoWic - Katana ZERO (Original Soundtrack)/Bill Kiley - Katana ZERO (Original Soundtrack) - 35 V Limo (New Donk Shitty).flac
-#EXTINF:310321,Giorno_s Theme but it_s EPIC VERSION
-#EXTALB:Music
-#EXTART:Unknown artist
-#EXTGEN:Unknown genre
-Music/Giorno_s Theme but it_s EPIC VERSION.opus
 #EXTINF:209580, Roundabout
 #EXTALB:Music
 #EXTART:Yes
@@ -261,3 +261,8 @@ Music/Roundabout (2024 Remaster).opus
 #EXTART:Unknown artist
 #EXTGEN:Unknown genre
 Music/Don_t Stop Me Now.opus
+#EXTINF:209547,Daft Punk - One More Time
+#EXTALB:Music
+#EXTART:Unknown artist
+#EXTGEN:Unknown genre
+Music/Daft Punk - One More Time (Official Audio).opus
