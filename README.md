@@ -6,7 +6,7 @@ Field notes on how to play music safely during bike rides
 * TODO: YouTube playlist mirror
 
 ## Playlist
-* [Playlist](https://www.last.fm/user/TaiB2C/playlists/13228521) on [last&period;fm profile](https://www.last.fm/user/TaiB2C)
+* [Playlist](https://www.last.fm/user/TaiB2C/playlists/13228521) on my [last&period;fm account](https://www.last.fm/user/TaiB2C)
 
 ## Bill of Materials (BOM)
 This is what I use to play music on bike rides:
