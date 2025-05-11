@@ -24,7 +24,7 @@ This is what I use to play music on bike rides:
 * [Tangara](https://cooltech.zone/tangara/) from [Cool Tech Zone](https://cooltech.zone/)
 * Waterproof and crashproof case for Tangara
     * [Pelican Micro 1010 case](https://www.pelican.com/us/en/product/cases/micro/1010/)
-        * Trnasparent lid for Bluetooth setups
+        * Transparent lid for Bluetooth setups
     * Discontinued [Pelican i1010](https://www.pelican.com/us/en/product/cases/micro/1010/) with [1011 replacement case liner](https://www.pelican.com/us/en/accessory/cases/replacement-case-liner/1011/) (for in-production Micro 1010 case)
         * Opaque lids for wired audio jack setups
         * Audio jack dust cover (from the [Audio-Technica ATH-m50x](https://www.audio-technica.com/en-us/ath-m50x))
