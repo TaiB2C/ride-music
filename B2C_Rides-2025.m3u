@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTENC:UTF-8
 #PLAYLIST:B2C Rides
-#EXTINF:191955,JoJo ★ JOJOLION OP ★『GO BEYOND !』- Original - JoJo's Bizarre Adventure Part 8【ジョジョの奇妙な冒険】 ジョジョリオン [g7TcFvORooU].opus
-#EXTALB:Music
-#EXTART:Unknown artist
-#EXTGEN:Unknown genre
-Music/JoJo ★ JOJOLION OP ★『GO BEYOND !』- Original - JoJo's Bizarre Adventure Part 8【ジョジョの奇妙な冒険】 ジョジョリオン [g7TcFvORooU].opus
-#EXTINF:191960,About Damn Time
-#EXTALB:About Damn Time
-#EXTART:Lizzo
-#EXTGEN:Pop
-Music/Lizzo/01_About_Damn_Time.flac
 #EXTINF:191961,Lifelight
 #EXTALB:Virtual Community Orchestra
 #EXTART:The 8-Bit Big Band
 #EXTGEN:Unknown genre
 Music/The 8-Bit Big Band - Lifelight - Virtual Community Orchestra.flac
-#EXTINF:174941,Pokémon Johto
+#EXTINF:191960,About Damn Time
+#EXTALB:About Damn Time
+#EXTART:Lizzo
+#EXTGEN:Pop
+Music/Lizzo/01_About_Damn_Time.flac
+#EXTINF:191955,JoJo ★ JOJOLION OP ★『GO BEYOND !』- Original - JoJo's Bizarre Adventure Part 8【ジョジョの奇妙な冒険】 ジョジョリオン [g7TcFvORooU].opus
 #EXTALB:Music
 #EXTART:Unknown artist
 #EXTGEN:Unknown genre
-Music/Pokémon Johto.opus
+Music/JoJo ★ JOJOLION OP ★『GO BEYOND !』- Original - JoJo's Bizarre Adventure Part 8【ジョジョの奇妙な冒険】 ジョジョリオン [g7TcFvORooU].opus
+#EXTINF:198201,Pokémon Theme
+#EXTALB:Music
+#EXTART:Unknown artist
+#EXTGEN:Unknown genre
+Music/Pokémon Theme.opus
 #EXTINF:186383,Fridays
 #EXTALB:Music
 #EXTART:Can't Stop Won't Stop
@@ -241,11 +241,11 @@ Music/Caravan Palace - I°_°I/Caravan Palace - -I°_°I- - 01 Lone Digger.flac
 #EXTART:Unknown artist
 #EXTGEN:Unknown genre
 Music/The Black Eyed Peas - Where Is The Love_ (Official Music Video).opus
-#EXTINF:198201,Pokémon Theme
+#EXTINF:174941,Pokémon Johto
 #EXTALB:Music
 #EXTART:Unknown artist
 #EXTGEN:Unknown genre
-Music/Pokémon Theme.opus
+Music/Pokémon Johto.opus
 #EXTINF:102933,V Limo (New Donk Shitty)
 #EXTALB:Katana ZERO (Original Soundtrack)
 #EXTART:Bill Kiley
