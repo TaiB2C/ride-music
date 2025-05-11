@@ -1,12 +1,13 @@
-# Info for ride music
-Field notes on how to play music safely during bike rides
+# Ride music setup
+Field notes on how to play music safely and mostly hands-free during group bike rides.
 
 ## Roadmap
-* Use Markdown on GitHub, until I can figure out a better hosting situation.
-* TODO: YouTube playlist mirror
+* Figure out a hosting situation that's better than Markdown on GitHub.
 
 ## Playlist
 * [Playlist](https://www.last.fm/user/TaiB2C/playlists/13228521) on my [last&period;fm account](https://www.last.fm/user/TaiB2C)
+* TODO: YouTube playlist mirror
+    * I may not be aware of entries missing if YouTube removes them.
 
 ## Bill of Materials (BOM)
 This is what I use to play music on bike rides:
