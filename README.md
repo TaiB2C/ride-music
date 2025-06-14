@@ -23,6 +23,7 @@ This is what I use to play music on bike rides:
     * Lossless copies of singles obtained through "economical means" (as a former professor says)
     * Lossy OPUS copies of songs only available by downloading with [`yt-dlp`](https://en.wikipedia.org/wiki/Youtube-dl)
 * [Tangara](https://cooltech.zone/tangara/) from [Cool Tech Zone](https://cooltech.zone/)
+    * [Tangarine](https://codeberg.org/bloop/tangarine) faceplate mod (available on [Tindie](https://www.tindie.com/products/_emily/tangarine/))
 * Waterproof and crashproof case for Tangara
     * [Pelican Micro 1010 case](https://www.pelican.com/us/en/product/cases/micro/1010/)
         * Transparent lid for Bluetooth setups
