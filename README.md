@@ -16,6 +16,7 @@ This is what I use to play music on bike rides:
     * Last speaker in the [JBL](https://en.wikipedia.org/wiki/JBL) Flip line to have a [3.5mm audio jack](https://en.wikipedia.org/wiki/Phone_connector_(audio))
     * Alternatively, any other [wireless speaker](https://en.wikipedia.org/wiki/Wireless_speaker) that can safely stay on a bike will work
 * Bungee cord on top of handlebar bag
+* External USB-A and USB-C battery bank
 * Bike stem bag to hold Tangara
 * Music collection, sourced from:
     * [Bandcamp](https://en.wikipedia.org/wiki/Bandcamp)
